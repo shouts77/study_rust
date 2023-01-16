@@ -5,5 +5,84 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	//
+0	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	o	array:local
+0	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	o	array:local
+0	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	o	array:local
+0	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	o	array:local
+10376369925670944939	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	o	object:outputs
+15697416045686424142	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	o	object:outputs
+4614504638168534921	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	o	object:outputs
+CheckDepInfo	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	o	object:local.0
+CheckDepInfo	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	o	object:local.0
+CheckDepInfo	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	o	object:local.0
+CheckDepInfo	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	o	object:local.0
+code	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	n	object:outputs.10376369925670944939
+code	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	n	object:outputs.15697416045686424142
+code	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	n	object:outputs.4614504638168534921
+compile_kind	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+compile_kind	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+compile_kind	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+compile_kind	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+config	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+config	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+config	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+config	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+dep_info	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	s	object:local.0.CheckDepInfo
+dep_info	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	s	object:local.0.CheckDepInfo
+dep_info	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	s	object:local.0.CheckDepInfo
+dep_info	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	s	object:local.0.CheckDepInfo
+deps	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	a
+deps	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	a
+deps	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	a
+deps	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	a
+features	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	s
+features	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	s
+features	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	s
+features	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	s
+gcd	hello/src/main.rs	/^fn gcd(mut n: u64, mut m: u64) -> u64 {$/;"	f
+local	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	a
+local	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	a
+local	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	a
+local	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	a
 main	hello/src/main.rs	/^fn main() {$/;"	f
+metadata	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+metadata	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+metadata	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+metadata	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+outputs	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	o
+path	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+path	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+path	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+path	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+profile	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+profile	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+profile	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+profile	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+rustc	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+rustc	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+rustc	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+rustc	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+rustc_fingerprint	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	n
+rustflags	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	a
+rustflags	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	a
+rustflags	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	a
+rustflags	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	a
+status	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.10376369925670944939
+status	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.15697416045686424142
+status	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
+stderr	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.10376369925670944939
+stderr	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.15697416045686424142
+stderr	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
+stdout	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.10376369925670944939
+stdout	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.15697416045686424142
+stdout	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	s	object:outputs.4614504638168534921
 study_rust	README.md	/^# study_rust$/;"	t
+success	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	b	object:outputs.10376369925670944939
+success	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	b	object:outputs.15697416045686424142
+success	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	b	object:outputs.4614504638168534921
+successes	hello/target/.rustc_info.json	/^{"rustc_fingerprint":440825595417536199,"outputs":{"15697416045686424142":{"success":true,"statu/;"	o
+target	hello/target/debug/.fingerprint/hello-274bceb238a71d2c/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":92510136562/;"	n
+target	hello/target/debug/.fingerprint/hello-94ae1960ffa57e21/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":17729903187/;"	n
+target	hello/target/debug/.fingerprint/hello-97c40fa286d2388d/bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":73091416868/;"	n
+target	hello/target/debug/.fingerprint/hello-98d7087f3af73ba7/test-bin-hello.json	/^{"rustc":7419878829587384386,"features":"[]","target":13929244803559874477,"profile":10216330754/;"	n
+test_gcd	hello/src/main.rs	/^fn test_gcd() {$/;"	f
